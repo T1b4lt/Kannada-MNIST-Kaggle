@@ -3,4 +3,4 @@
  
  Credits Wide Residual Network keras library: [Github](https://github.com/EricAlcaide/keras-wrn)
  
- ### Final result: 0.9923
+ ### Final result: 0.9923 accuracy
